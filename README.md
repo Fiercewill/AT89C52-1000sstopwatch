@@ -1,0 +1,2 @@
+# AT89C52-1000sstopwatch
+这是单片机课程老师布置的一个实验作业，要求是运用keil5编程at89c51单片机，并且使用proteus搭建电路，将Keil5的代码在proteus的电路中运行。
